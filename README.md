@@ -1,7 +1,8 @@
 # Sistema Bancário Simples
 Este é um sistema bancário simples desenvolvido em Python, permitindo a realização de operações como depósito, saque, exibição de extrato e criação de contas bancárias. O programa foi projetado para simular transações em uma conta corrente, com limites de saque diários, validação de valores e controle de extratos.
 
-Funcionalidades
+## Funcionalidades 
+
 ### Criar novo usuário: 
 Cadastro de um novo usuário com CPF, nome, data de nascimento e endereço.
 ### Criar conta corrente: 
